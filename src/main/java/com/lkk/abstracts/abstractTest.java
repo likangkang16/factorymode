@@ -4,7 +4,7 @@ import main.java.com.lkk.abstracts.factory.impl.AnmialAImpl;
 import main.java.com.lkk.abstracts.factory.impl.AnmialBImpl;
 
 /**
- * @ClassName abstractTest
+ * @ClassName abstractTest 抽象工厂模式测试
  * @Description //TODO
  * @Author lkk
  * Date 2022/05/18/17:32

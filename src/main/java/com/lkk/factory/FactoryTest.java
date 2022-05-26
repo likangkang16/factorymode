@@ -4,7 +4,7 @@ import main.java.com.lkk.factory.inteface.impl.RedCatFactoryImpl;
 import main.java.com.lkk.factory.inteface.impl.YelloCatFactoryImpl;
 
 /**
- * @ClassName FactoryTest
+ * @ClassName FactoryTest 工厂模式测试
  * @Description //TODO
  * @Author lkk
  * Date 2022/05/18/15:21

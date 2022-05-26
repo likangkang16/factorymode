@@ -4,7 +4,7 @@ package main.java.com.lkk.simple;
 import main.java.com.lkk.simple.factory.CatFactory;
 
 /**
- * @ClassName SimpleTest
+ * @ClassName SimpleTest 简单工厂模式测试
  * @Description //TODO
  * @Author lkk
  * Date 2022/05/18/15:21
